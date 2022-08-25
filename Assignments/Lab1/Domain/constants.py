@@ -1,0 +1,48 @@
+# Creating some colors
+BLUE = (0, 0, 255)
+GRAYBLUE = (50, 120, 120)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+YELLOW = (255, 255, 0)
+NAVYBLUE = (0, 0, 128)
+SKY_BLUE = (128, 185, 255)
+PINK = (255, 100, 180)
+PURPLE = (240, 0, 255)
+DANDILION_YELLOW = (255, 200, 0)
+MOON_GLOW = (235,245,255)
+DEEP_SKY_BLUE = (0, 154, 205, 255)
+PINK_2 = (255, 20, 147, 255)
+PURPLE_2 = (160, 32, 240, 255)
+SNOW_2 = (139, 137, 137, 255)
+
+# define directions
+UP = 0
+LEFT = 1
+DOWN = 2
+RIGHT = 3
+
+# define indexes variations
+directions = [[-1, 0], [0, -1], [1, 0], [0, 1]]
+
+# Here I define some constants useful for the GUI
+START = 0
+END = 19
+START_FONT = 15
+END_FONT = 40
+BORDER = 15
+POSITION_BUTTON = (100, 100, 200, 50)
+START_BUTTON = 100
+END_BUTTON_WIDTH = 300
+END_BUTTON_HEIGHT = 150
+BLIT_START_FONT = (135, 115)
+MUSIC_REPEAT = -1
+MUSIC_START = 0.0
+START_WINDOW = (400, 200)
+MAIN_WINDOW = (800, 400)
+FULL_BLIT = (0, 0)
+MOUSE_WIDTH_POS = 0
+MOUSE_HEIGHT_POS = 1
+DMAP_BLIT = (400, 0)
+SLEEP = 0.2

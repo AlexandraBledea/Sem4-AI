@@ -1,0 +1,19 @@
+class Utilities:
+
+    DB_SIZE = 2400
+
+    DATA_LOWER_BOUND = -10
+    DATA_HIGHER_BOUND = 10
+
+    DB_FILEPATH = 'dataset.dat'
+    ANN_FILEPATH = 'network.pt'
+
+    LEARNING_RATE = 0.0051
+    BATCH_SIZE = 50
+
+    INPUT_LAYER_SIZE = 2
+    HIDDEN_LAYER_SIZE = 24
+    OUTPUT_LAYER_SIZE = 1
+
+    EPOCH_COUNT = 5000
+

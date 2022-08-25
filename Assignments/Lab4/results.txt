@@ -1,0 +1,12 @@
+Seeds = [1, 30]; Pop.size = 50; Ind.size = 30; Generations = 30; Iterations/gen = 50; Mutation prob = 0.04; Crossover prob = 0.80
+Average of averages: 92.168
+Stdev of averages: 22.294
+
+Seeds = [1, 30]; Pop.size = 50; Ind.size = 30; Generations = 30; Iterations/gen = 50; Mutation prob = 0.04; Crossover prob = 0.80
+Average of averages: 86.086
+Stdev of averages: 19.604
+
+Seeds = [1, 30]; Pop.size = 50; Ind.size = 30; Generations = 30; Iterations/gen = 50; Mutation prob = 0.04; Crossover prob = 0.80
+Average of averages: 124.896
+Stdev of averages: 6.240
+
